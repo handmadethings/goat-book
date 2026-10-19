@@ -9,4 +9,4 @@ source .venv/bin/activate
 `:` for commands, e.g. `:q` for quit, `wq` to save changes
 
 ## Todo
-Next chapter [Testing a simple homepage](https://www.obeythetestinggoat.com/book/chapter_03_unit_test_first_view.html)
+Next chapter [What Are We Doing with All These Tests? (And, Refactoring)](https://www.obeythetestinggoat.com/book/chapter_04_philosophy_and_refactoring.html)

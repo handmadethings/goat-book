@@ -9,4 +9,4 @@ source .venv/bin/activate
 `:` for commands, e.g. `:q` for quit, `wq` to save changes
 
 ## Todo
-Next chapter [Saving User Input: Testing the Database)](https://www.obeythetestinggoat.com/book/chapter_05_post_and_database.html)
+Next chapter [Saving User Input: Testing the Database)](https://www.obeythetestinggoat.com/book/chapter_05_post_and_database.html#django_ORM_first_model)
